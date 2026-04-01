@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: cloudwithvarjosh/cwvj-flask:latest
+        image: cloudwithvarjosh/cwvj-devsecops-demo:latest
         ports:
         - containerPort: 5000
